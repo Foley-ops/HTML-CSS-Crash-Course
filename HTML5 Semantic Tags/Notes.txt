@@ -1,0 +1,24 @@
+These are different types of semantic tags.  
+They make it easier to see what is going on
+
+<main></main>
+
+<section></section>
+
+<article></article>
+
+<aside></aside>
+
+<header></header>
+
+<footer></footer>
+
+
+
+There are several different positions and layouts
+
+Static
+relative
+fixed
+absolute 
+sticky
